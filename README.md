@@ -16,7 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/khurramqadeer-laravel-vue-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/khurramqadeer-laravel-vue-developer" height="30" width="70" /></a>
+<a href="https://linkedin.com/in/khurramqadeer-laravel-vue-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/khurramqadeer-laravel-vue-developer" height="70" width="70" class="mr-4" /></a>
+<a href="https://wa.me/923336057161" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/240px-WhatsApp.svg.png" height="70" width="70" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
