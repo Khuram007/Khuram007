@@ -3,7 +3,7 @@
 
 👨‍💻 𝘼𝘽𝙊𝙐𝙏 𝙈𝙀: 
 <p align="left"> 
-  ✔ Experience: 7+ years in web development. <br/>
+  ✔ Experience: 8+ years in web development. <br/>
   ✔ Front-end stack: Vue.JS, React.js, Javascript.  <br/>
   ✔ Back-end stack: Laravel, PHP.  <br/>
   ✔ CMS: WordPress, Shopify (Theme Development, Customisation) , Figma/PSD/Xi to responsive design <br/>
